@@ -14,13 +14,24 @@
 <br />
 <p align="center">
     <a href="https://www.linkedin.com/in/hosneara-popy-911abb136/">
-        <img height="50"  src="https://i.postimg.cc/cCFy9jCP/in.png">
+        <img height="50"  src="https://i.postimg.cc/XJ3YtRNv/in.png">
     </a>
     <a>
-        <img height="50"   src="https://i.postimg.cc/XvkfnYVM/x.png">
+        <img height="50"   src="https://i.postimg.cc/VLw2nzGv/x.png">
     </a>
     <a >
-        <img height="50" width="150"  src="https://i.postimg.cc/nV2FbsNK/f.png">
+        <img height="50" width="150"  src="https://i.postimg.cc/mkvq5sRX/f.png">
     </a>
 </p>
 <br />
+
+
+## Technologies that I know
+
+<br />
+<p align="center">
+    <a target="_blank" > <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/HTML.svg" alt="html5" width="65" height="65"/> </a>
+    </a> <a  target="_blank"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/CSS.svg" alt="CSS3" width="65" height="65"/> </a>
+    <a  target="_blank"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/JavaScript.svg" alt="javascript" width="65" height="65"/> </a>
+    <a target="_blank" > <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/C.svg" alt="c" width="65" height="65"/> </a>   
+</p
