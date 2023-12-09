@@ -47,3 +47,12 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/MongoDB.svg" alt="mongoDB" width="65" height="65"/> </a> 
 </p>
 <br/>
+
+
+## Current Overview
+- 🔭 I'm currently working on a React.js-based web project
+- 🌱 I’m currently learning Backend with Express and MongoDB 
+- 💬 Ask me about Html,CSS,JS,React... 
+- 📫 How to reach me: hosnearapopy462@gmail.com 
+- ⚡ Fun fact: When not immersed in code, you might find me experimenting with new recipes in the kitchen. 
+
