@@ -14,7 +14,7 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=husnearaa&theme=violet-punch" alt="GitHub Streak" /></a>
 </p>
 
-<P align="center" style="margin-left: 10px;">
+<P align="center" style="margin-left: 50px;">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=husnearaa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
