@@ -14,6 +14,15 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=husnearaa&theme=violet-punch" alt="GitHub Streak" /></a>
 </p>
 
+<P align="center" style="margin-left: 10px;>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=husnearaa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</p>
+
+
+
+
 ## Reach me out
 
 <br />
@@ -52,6 +61,10 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/MongoDB.svg" alt="mongoDB" width="65" height="65"/> </a> 
 </p>
 <br/>
+
+
+
+
 
 
 ## Current Overview
