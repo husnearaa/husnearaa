@@ -34,4 +34,16 @@
     </a> <a  target="_blank"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/CSS.svg" alt="CSS3" width="65" height="65"/> </a>
     <a  target="_blank"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/JavaScript.svg" alt="javascript" width="65" height="65"/> </a>
     <a target="_blank" > <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/C.svg" alt="c" width="65" height="65"/> </a>   
-</p
+</p>
+<p align="center">
+    <a  target="_blank" rel="noreferrer"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/React-Dark.svg" alt="react" width="65" height="65"/> </a> 
+      <a  target="_blank" rel="noreferrer"> <img  style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/TailwindCSS-Dark.svg" alt="tailwind" width="65" height="65"/> </a> 
+    <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Bootstrap.svg" alt="bootstrap" width="65" height="65"/> </a> 
+     <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Firebase-Dark.svg" alt="firebase" width="65" height="65"/> </a>
+</p>
+<p align="center">
+    <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/NodeJS-Dark.svg" alt="node" width="65" height="65"/> </a>
+     <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/ExpressJS-Dark.svg" alt="express"width="65" height="65"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/MongoDB.svg" alt="mongoDB" width="65" height="65"/> </a> 
+</p>
+<br/>
