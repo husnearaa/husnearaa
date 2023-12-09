@@ -14,12 +14,12 @@
 <br />
 <p align="center">
     <a href="https://www.linkedin.com/in/hosneara-popy-911abb136/">
-        <img height="50"  src="https://i.postimg.cc/YSr4ffwV/in.png">
+        <img height="50"  src="https://i.postimg.cc/cCFy9jCP/in.png">
     </a>
-    <a href="">
+    <a>
         <img height="50"   src="https://i.postimg.cc/XvkfnYVM/x.png">
     </a>
-    <a href="">
+    <a >
         <img height="50" width="150"  src="https://i.postimg.cc/nV2FbsNK/f.png">
     </a>
 </p>
