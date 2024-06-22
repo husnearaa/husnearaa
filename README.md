@@ -64,8 +64,8 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 
 ## Current Overview
 - 🔭 I'm currently working on a **React.js-based web project**
-- 🌱 I’m currently learning **Backend with Express and MongoDB**
-- 💬 Ask me about **Html,CSS,JS,React.**
+- 🌱 I’m currently learning **Next.js**
+- 💬 Ask me about **Html,CSS,JS,React.js**
 - 📫 How to reach me hosnearapopy462@gmail.com 
 - ⚡ Fun fact: **When not immersed in code, you might find me experimenting with new recipes in the kitchen.** 
 
