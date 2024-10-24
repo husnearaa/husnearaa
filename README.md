@@ -39,21 +39,21 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 
 <br />
 <p align="center">
-    <a target="_blank" > <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/HTML.svg" alt="html5" width="65" height="65"/> </a>
-    </a> <a  target="_blank"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/CSS.svg" alt="CSS3" width="65" height="65"/> </a>
-    <a  target="_blank"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/JavaScript.svg" alt="javascript" width="65" height="65"/> </a>
-    <a target="_blank" > <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/C.svg" alt="c" width="65" height="65"/> </a>   
+    <a target="_blank" > <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/HTML.svg" alt="html5" width="50" height="50"/> </a>
+    </a> <a  target="_blank"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/CSS.svg" alt="CSS3" width="50" height="50"/> </a>
+    <a  target="_blank"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
+    <a target="_blank" > <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/C.svg" alt="c" wwidth="50" height="50"/> </a>   
 </p>
 <p align="center">
-    <a  target="_blank" rel="noreferrer"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/React-Dark.svg" alt="react" width="65" height="65"/> </a> 
-      <a  target="_blank" rel="noreferrer"> <img  style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/TailwindCSS-Dark.svg" alt="tailwind" width="65" height="65"/> </a> 
-    <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Bootstrap.svg" alt="bootstrap" width="65" height="65"/> </a> 
-     <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Firebase-Dark.svg" alt="firebase" width="65" height="65"/> </a>
+    <a  target="_blank" rel="noreferrer"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/React-Dark.svg" alt="react" width="50" height="50"/> </a> 
+      <a  target="_blank" rel="noreferrer"> <img  style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/TailwindCSS-Dark.svg" alt="tailwind" width="50" height="50"/> </a> 
+    <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
+     <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Firebase-Dark.svg" alt="firebase" width="50" height="50"/> </a>
 </p>
 <p align="center">
-    <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/NodeJS-Dark.svg" alt="node" width="65" height="65"/> </a>
-     <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/ExpressJS-Dark.svg" alt="express"width="65" height="65"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/MongoDB.svg" alt="mongoDB" width="65" height="65"/> </a> 
+    <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/NodeJS-Dark.svg" alt="node" width="50" height="50"/> </a>
+     <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/ExpressJS-Dark.svg" alt="express"width="50" height="50"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/MongoDB.svg" alt="mongoDB" width="50" height="50"/> </a> 
 </p>
 <br/>
 
@@ -63,9 +63,9 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 
 
 ## Current Overview
-- 🔭 I'm currently working on a **React.js-based web project**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **Html,CSS,JS,React.js**
+- 🔭 I'm currently working on a **Next.js-based web project**
+- 🌱 I’m currently learning **TypeScript**
+- 💬 Ask me about **JS,React.js, Next.js**
 - 📫 How to reach me hosnearapopy462@gmail.com 
 - ⚡ Fun fact: **When not immersed in code, you might find me experimenting with new recipes in the kitchen.** 
 
