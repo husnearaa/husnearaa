@@ -64,7 +64,7 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 
 ## Current Overview
 - 🔭 I'm currently working on a **Next.js-based web project**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Mongoose**
 - 💬 Ask me about **JS,React.js, Next.js**
 - 📫 How to reach me hosnearapopy462@gmail.com 
 - ⚡ Fun fact: **When not immersed in code, you might find me experimenting with new recipes in the kitchen.** 
