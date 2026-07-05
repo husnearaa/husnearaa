@@ -57,6 +57,9 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
     <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/NodeJS-Dark.svg" alt="node" width="50" height="50"/> </a>
      <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/ExpressJS-Dark.svg" alt="express"width="50" height="50"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/MongoDB.svg" alt="mongoDB" width="50" height="50"/> </a> 
+ <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img style="margin-right: 10px;"
+   src="https://skillicons.dev/icons?i=postman"> 
+  </a>
 </p>
 <br/>
 
