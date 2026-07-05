@@ -46,6 +46,9 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 </p>
 <p align="center">
     <a  target="_blank" rel="noreferrer"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/React-Dark.svg" alt="react" width="50" height="50"/> </a> 
+ <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img style="margin-right: 10px;"
+   src="https://skillicons.dev/icons?i=nextjs,redux"> 
+  </a>
       <a  target="_blank" rel="noreferrer"> <img  style="margin-right: 10px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/TailwindCSS-Dark.svg" alt="tailwind" width="50" height="50"/> </a> 
     <a target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
      <a  target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/husnearaa/husnearaa/70487ae1a3b80ac675466a73ab36eeda2873e514/image/icons/Firebase-Dark.svg" alt="firebase" width="50" height="50"/> </a>
