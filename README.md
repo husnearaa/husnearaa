@@ -3,9 +3,15 @@
 
 ## About Me
 
- Greetings!, I'm a web Developer. I specialize in front-end development using technologies like HTML, CSS, Tailwind, JavaScript, and React.js. My coding journey extends to the realms of Express.js and MongoDB, adding depth to my frontend prowess.
+Hi, I'm Hosneara Parvin Popy, a Full-Stack Developer passionate about building modern, responsive, and user-friendly web applications.
 
-In the ever-evolving world of web development, my vision is to seamlessly merge functionality with creativity. Harnessing my abilities, I aspire to design user experiences that not only meet but surpass expectations.  My future goal is to delve deeper into backend technologies. As a web developer, I aspire to contribute to cutting-edge projects, making a meaningful impact and transforming innovative ideas into digital realities.
+I work with Next.js, React.js, JavaScript, TypeScript, and Tailwind CSS to create engaging user interfaces. I also develop backend applications and REST APIs using Node.js and Express.js, with databases like MongoDB and PostgreSQL and tools like Prisma ORM.
+
+I enjoy solving problems, exploring new technologies, and turning ideas into practical digital solutions. I'm continuously improving my development skills and exploring ways to build scalable, reliable, and efficient applications.
+
+My goal is to contribute to meaningful projects, collaborate with other developers, and keep growing as a Full-Stack Developer.
+
+
 
 ##  Current Stats
 
