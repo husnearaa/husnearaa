@@ -85,10 +85,10 @@ My goal is to contribute to meaningful projects, collaborate with other develope
 - 📝 I regularly write articles on LinkedIn
 - ⚡ Fun fact: **When not immersed in code, you might find me experimenting with new recipes in the kitchen.**
 
-  <br />
 
 
 <!--- visit count --->
+##
   <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnearaa&label=Profile%20views&color=0e75b6&style=flat" alt="husnearaa" /> </p>
   <br />
