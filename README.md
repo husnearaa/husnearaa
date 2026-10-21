@@ -28,11 +28,11 @@ My goal is to contribute to meaningful projects, collaborate with other develope
 
 <br />
 <p align="center">
-    <a href="https://www.linkedin.com/in/hosneara-popy-911abb136/">
+    <a href="https://www.linkedin.com/in/hosneara-popy/" target="_blank" >
         <img height="50"  src="https://i.postimg.cc/XJ3YtRNv/in.png">
     </a>
-    <a>
-        <img height="50"   src="https://i.postimg.cc/VLw2nzGv/x.png">
+    <a href="https://x.com/hosneara_popy" target="_blank" >
+        <img height="50" src="https://i.postimg.cc/VLw2nzGv/x.png">
     </a>
     <a >
         <img height="50" width="150"  src="https://i.postimg.cc/mkvq5sRX/f.png">
