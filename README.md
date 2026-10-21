@@ -76,7 +76,7 @@ My goal is to contribute to meaningful projects, collaborate with other develope
 
 
 ## Current Overview
-<br />
+
 - 🖥️ I’m currently working on "React.js", "Next.js", "Typescript" and "Redux" for frontend development.
 - 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.
 - 🌱 I’m currently learning Docker and AWS.
@@ -89,6 +89,7 @@ My goal is to contribute to meaningful projects, collaborate with other develope
 
 
 <!--- visit count --->
+  <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnearaa&label=Profile%20views&color=0e75b6&style=flat" alt="husnearaa" /> </p>
-
+  <br />
 
