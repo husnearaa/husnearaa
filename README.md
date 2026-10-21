@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/husnearaa/husnearaa/main/image/img2.jpg)
+![](https://raw.githubusercontent.com/husnearaa/husnearaa/683524a6ab2101af49d57e116bd09dd27dde19bc/image/Copy%20of%20Full%20Stack%20Developer.png)
 
 
 ## About Me
