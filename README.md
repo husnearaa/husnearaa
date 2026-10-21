@@ -84,7 +84,7 @@ My goal is to contribute to meaningful projects, collaborate with other develope
 - 📫 How to reach me hosnearapopy462@gmail.com
 - 📝 I regularly write articles on LinkedIn
 - ⚡ Fun fact: **When not immersed in code, you might find me experimenting with new recipes in the kitchen.**
-
+<br />
 
 
 <!--- visit count --->
