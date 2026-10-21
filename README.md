@@ -75,8 +75,6 @@ My goal is to contribute to meaningful projects, collaborate with other develope
 
 
 
-
-
 ## Current Overview
 - 🖥️ I’m currently working on "React.js", "Next.js", "Typescript" and "Redux" for frontend development.
 - 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.
@@ -85,5 +83,9 @@ My goal is to contribute to meaningful projects, collaborate with other develope
 - 📫 How to reach me hosnearapopy462@gmail.com
 - 📝 I regularly write articles on LinkedIn
 - ⚡ Fun fact: **When not immersed in code, you might find me experimenting with new recipes in the kitchen.**
+- 
+
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=husnearaa&label=Profile%20views&color=0e75b6&style=flat" alt="husnearaa" /> </p>
 
 
